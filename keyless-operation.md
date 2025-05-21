@@ -5,7 +5,7 @@ icon: key
 
 # Keyless Operation
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 First, the startup arguments need to be changed in a way that does not depend on your keys, and you need to migrate your keys to a local machine somewhere.
 
